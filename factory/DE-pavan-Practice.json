@@ -1,0 +1,9 @@
+{
+	"name": "DE-pavan-Practice",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "45f94c54-0021-4c31-b9e4-c9ad7bb5b1f9",
+		"tenantId": "cad830e4-554f-4361-bae5-c865233fb77f"
+	}
+}
